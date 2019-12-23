@@ -5,6 +5,8 @@ layout: page
 ![Profile Image]({{ site.url }}/{{ site.profile_bk }})
 <figcaption class="caption">求真求知，拥抱体系。</figcaption>
 
+<div style="background-color: burlywood;padding: 10px;text-align: center;"> <p>Warn: 我的博客域名已经切换到了 <a href="https://gudong.site/">gudong.site</a>，原域名 gudong.name 将在一年后停止访问。 <br> 挥一挥衣袖， <a href="https://gudong.site">访问新域名。</a> </p> </div> 
+
 <b>喜欢什么</b><br>
 <ul>
     <li>户外运动，<a href="https://gudong.name/tags#%E7%AF%AE%E7%90%83" target="_blank">尤其喜欢篮球</a>。</li>
