@@ -5,11 +5,13 @@ layout: page
 ![Profile Image]({{ site.url }}/{{ site.profile_bk }})
 <figcaption class="caption">求真求知，拥抱体系。</figcaption>
 
+<br>
+<br>
 <div style="background-color: burlywood;padding: 10px;text-align: center;"> <p>Warn: 我的博客域名已经切换到了 <a href="https://gudong.site/">gudong.site</a>，原域名 gudong.name 将在一年后停止访问。 <br> 挥一挥衣袖， <a href="https://gudong.site">访问新域名。</a> </p> </div> 
 
 <b>喜欢什么</b><br>
 <ul>
-    <li>户外运动，<a href="https://gudong.name/tags#%E7%AF%AE%E7%90%83" target="_blank">尤其喜欢篮球</a>。</li>
+    <li>户外运动，<a href="https://gudong.name/tags#%E7%AF%AE%E7%90%83" target="_blank">篮球</a>、健步听书。</li>
     <li>个人 App 开发，曾开发设计过<a href="https://github.com/maoruibin/TranslateApp" target="_blank">咕咚翻译</a>、<a href="./2018/07/25/about_passbook.html" target="_blank">Passbook</a>等<a href="/product" target="_blank">工具</a>。</li>
     <li>写东西（公众号「咕咚同学」每日感悟，每日更新，最下方可扫码）</li>
     <li>爬山</li>
